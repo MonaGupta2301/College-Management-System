@@ -20,6 +20,8 @@ public class AdminCMS extends javax.swing.JFrame {
 
    public void Connect()
      {
+
+
            try
            {
                   con=DriverManager.getConnection("jdbc:mysql://localhost:3307/clgmgmtsys","root", "");

@@ -25,6 +25,7 @@ public class EmployeeCMS extends javax.swing.JFrame {
            }
            catch(Exception e)
            {
+
                 JOptionPane.showMessageDialog(this, e.getMessage());
            }
      }

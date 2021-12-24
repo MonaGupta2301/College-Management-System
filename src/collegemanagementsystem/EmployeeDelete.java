@@ -36,6 +36,7 @@ import javax.swing.table.DefaultTableModel;
      
         try
         {
+
              String sql="SELECT * FROM emplyee";
              PreparedStatement pst = conn.prepareStatement(sql);
              rs= pst.executeQuery();

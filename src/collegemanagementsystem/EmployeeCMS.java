@@ -257,6 +257,7 @@ public class EmployeeCMS extends javax.swing.JFrame {
                 new EmployeeCMS().setVisible(true);
             }
         });
+
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

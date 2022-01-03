@@ -25,6 +25,8 @@ public class EmployeeCMS extends javax.swing.JFrame {
                   st=con.createStatement();
            }
            catch(Exception e)
+
+
            {
 
                 JOptionPane.showMessageDialog(this, e.getMessage());

@@ -12,6 +12,7 @@
         </Property>
         <Property name="text" type="java.lang.String" value="Employee Details"/>
       </Properties>
+
     </Component>
   </NonVisualComponents>
   <Properties>

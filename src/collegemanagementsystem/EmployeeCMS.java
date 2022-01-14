@@ -15,20 +15,14 @@ public class EmployeeCMS extends javax.swing.JFrame {
     }
 
     public void Connect()
-
-     {
+    {
            try
-
-
            {
                   con=DriverManager.getConnection("jdbc:mysql://localhost:3307/clgmgmtsys","root", "");
                   st=con.createStatement();
            }
            catch(Exception e)
-
-
-           {
-
+          {
                 JOptionPane.showMessageDialog(this, e.getMessage());
            }
      }

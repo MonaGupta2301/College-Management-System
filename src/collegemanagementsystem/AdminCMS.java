@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package collegemanagementsystem;
-
 import java.sql.*;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
@@ -20,8 +19,6 @@ public class AdminCMS extends javax.swing.JFrame {
 
    public void Connect()
      {
-
-
            try
            {
                   con=DriverManager.getConnection("jdbc:mysql://localhost:3307/clgmgmtsys","root", "");
@@ -31,12 +28,8 @@ public class AdminCMS extends javax.swing.JFrame {
            {
                 JOptionPane.showMessageDialog(this, e.getMessage());
            }
-
-
-     }
+    }
     @SuppressWarnings("unchecked")
-
-
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 

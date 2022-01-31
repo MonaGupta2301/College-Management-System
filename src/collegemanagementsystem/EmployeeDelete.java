@@ -5,9 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-
  public class EmployeeDelete extends javax.swing.JFrame {
-
        Connection conn;
        Statement st;
        ResultSet rs;

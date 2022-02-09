@@ -15,9 +15,7 @@ import javax.swing.table.DefaultTableModel;
         jTable1.setRowHeight(35);
         DisplayDataOfTeacherTable();
     }
-
      public void Connect()
-
      {
            try
            {
@@ -31,11 +29,9 @@ import javax.swing.table.DefaultTableModel;
      }
       public void DisplayDataOfTeacherTable()
     {
-        //Display Data Of TeacherTable on jTable
-     
+        //Display Data Of TeacherTable on jTable   
         try
         {
-
              String sql="SELECT * FROM emplyee";
              PreparedStatement pst = conn.prepareStatement(sql);
              rs= pst.executeQuery();

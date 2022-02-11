@@ -8,7 +8,6 @@ import java.sql.*;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 public class AdminCMS extends javax.swing.JFrame {
-
     Connection con ;
     Statement st;
     ResultSet rs;

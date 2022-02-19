@@ -87,7 +87,6 @@ public class AdminCMS extends javax.swing.JFrame {
                 jButton6ActionPerformed(evt);
             }
         });
-
         jButton7.setBackground(new java.awt.Color(255, 255, 255));
         jButton7.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jButton7.setForeground(new java.awt.Color(0, 0, 102));
@@ -99,7 +98,6 @@ public class AdminCMS extends javax.swing.JFrame {
                 jButton7ActionPerformed(evt);
             }
         });
-
         jLabel1.setFont(new java.awt.Font("Times New Roman", 1, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(0, 0, 102));
         jLabel1.setText("Admin  Panel");

@@ -13,7 +13,6 @@ public class EmployeeCMS extends javax.swing.JFrame {
         jTable1.setRowHeight(30);
         jTable1.getColumnModel().getColumn(0).setPreferredWidth(70);
     }
-
     public void Connect()
     {
            try

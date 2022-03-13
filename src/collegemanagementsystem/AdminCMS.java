@@ -33,6 +33,8 @@ public class AdminCMS extends javax.swing.JFrame {
 
         jPanel1 = new javax.swing.JPanel();
 
+
+
         jPanel2 = new javax.swing.JPanel();
         jPanel3 = new javax.swing.JPanel();
         jButton1 = new javax.swing.JButton();

@@ -274,3 +274,14 @@ public class EmployeeCMS extends javax.swing.JFrame {
     public static javax.swing.JTable jTable1;
     // End of variables declaration//GEN-END:variables
 }
+
+
+
+
+
+
+
+
+
+
+

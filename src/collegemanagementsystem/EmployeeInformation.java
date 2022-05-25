@@ -348,6 +348,11 @@ public class EmployeeInformation extends javax.swing.JFrame {
           {
                  JOptionPane.showMessageDialog(this,"It is neccessary to fill each TextBoxes","Warning",JOptionPane.ERROR_MESSAGE);
           }
+
+
+
+
+
     else
           {
          try
@@ -471,3 +476,6 @@ public class EmployeeInformation extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField7;
     // End of variables declaration//GEN-END:variables
 }
+
+
+

@@ -18,6 +18,9 @@ public class AdminCMS extends javax.swing.JFrame {
 
 
 
+
+
+
    public void Connect()
      {
            try

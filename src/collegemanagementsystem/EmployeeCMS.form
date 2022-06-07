@@ -33,12 +33,6 @@
     <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
     <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
   </AuxValues>
-
-
-
-
-
-
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
@@ -52,10 +46,6 @@
               <EmptySpace min="-2" pref="3" max="-2" attributes="0"/>
           </Group>
       </Group>
-
-
-
-
     </DimensionLayout>
   </Layout>
   <SubComponents>

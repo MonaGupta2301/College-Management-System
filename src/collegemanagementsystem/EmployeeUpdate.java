@@ -11,7 +11,6 @@ public class EmployeeUpdate extends javax.swing.JFrame {
         initComponents();
          Connect();
     }
-
     public void Connect()
      {
            try
@@ -27,7 +26,6 @@ public class EmployeeUpdate extends javax.swing.JFrame {
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
-
         jPanel1 = new javax.swing.JPanel();
         jPanel2 = new javax.swing.JPanel();
         jLabel12 = new javax.swing.JLabel();
@@ -81,7 +79,6 @@ public class EmployeeUpdate extends javax.swing.JFrame {
                 jButton4ActionPerformed(evt);
             }
         });
-
         jButton3.setBackground(new java.awt.Color(0, 0, 102));
         jButton3.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jButton3.setForeground(new java.awt.Color(255, 255, 255));
@@ -92,7 +89,6 @@ public class EmployeeUpdate extends javax.swing.JFrame {
                 jButton3ActionPerformed(evt);
             }
         });
-
         jButton5.setBackground(new java.awt.Color(0, 0, 102));
         jButton5.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
         jButton5.setForeground(new java.awt.Color(255, 255, 255));
